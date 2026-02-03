@@ -23,7 +23,7 @@ You can control what the block page displays by passing query parameters in the 
 ### Examples
 
 > [!NOTE]
-> The url can also be used without any query parameters or without all query parameters, table of data will simply just not be shown
+> The url can also be used without any query parameters or without all query parameters, table of data will simply just not be shown or certain query parameters will be hidden.
 
 ```text
 example.com/?category=Adult%20Content&url=https://example.com
