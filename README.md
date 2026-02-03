@@ -1,6 +1,7 @@
 # Block Page
 
 A lightweight, configurable **block page** that can be redirected to on *blocked content* being accessed. Designed to be simple, fast, and easy to customize.
+<img width="1280" height="600" alt="698202dbfda4d873df4ce909" src="https://github.com/user-attachments/assets/d2a50cc6-759b-4210-9acb-943f552c8c43" />
 
 > [!NOTE]
 > This repo is purposefully **very** simple, this was originally a private project. Don't expect updates
