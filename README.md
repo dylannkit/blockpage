@@ -28,7 +28,7 @@ You can control what the block page displays by passing query parameters in the 
 > The url can also be used without any query parameters or without all query parameters, table of data will simply just not be shown or certain query parameters will be hidden.
 
 ```text
-example.com/?category=Adult%20Content&url=https://example.com
-example.com/?url=https://example.com
-example.com/?category=Adult%20Content&group=Guest&url=https://example.com
-example.com/
+[/?category=Adult%20Content&url=https://example.com](https://dylannkit.github.io/blockpage/?category=Adult%20Content&url=https://example.com)
+[/?url=https://example.com](https://dylannkit.github.io/blockpage/?url=https://example.com)
+[/?category=Adult%20Content&group=Guest&url=https://example.com](https://dylannkit.github.io/blockpage/?category=Adult%20Content&group=Guest&url=https://example.com
+)
