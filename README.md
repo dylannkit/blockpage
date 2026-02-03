@@ -2,6 +2,9 @@
 
 A lightweight, configurable **block page** that can be redirected to on *blocked content* being accessed. Designed to be simple, fast, and easy to customize.
 
+> [!NOTE]
+> This repo is purposefully **very** simple, this was originally a private project. Don't expect updates
+
 ## ✨ Features
 
 - 🔗 **URL-based configuration** using query parameters
