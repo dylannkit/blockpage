@@ -1,7 +1,4 @@
-<h1 style="display: flex; align-items: center; gap: 12px;">
-  <img width="100" height="100" alt="pfp" src="https://github.com/user-attachments/assets/a0ee24be-6977-474e-a914-79076e22bb7a" />
-  Block Page
-</h1>
+# Block Page
 
 A lightweight, configurable **block page** that can be redirected to on *blocked content* being accessed. Designed to be simple, fast, and easy to customize.
 
