@@ -9,11 +9,11 @@ A lightweight, configurable **block page** that can be redirected to on *blocked
 
 - 🔗 **URL-based configuration** using query parameters
 - 🧩 Supports multiple blocking contexts:
-  - `?url=example` — block a specific URL
-  - `?group=example` — block by group name
-  - `?category=example` — block by category
+  - `?url=example` — blocked URL
+  - `?group=example` — block by "user group"
+  - `?category=example` — category that URL falls under
 - ⚡ Minimal and lightweight
-- 🎨 Easy to customize (text, styles, layout)
+- 🎨 Easy to customize (css)
 - 🌐 Works entirely client-side
 
 ## 🧪 Usage
@@ -22,7 +22,11 @@ You can control what the block page displays by passing query parameters in the 
 
 ### Examples
 
+> [!NOTE]
+> The url can also be used without any query parameters or without all query parameters, table of data will simply just not be shown
+
 ```text
-/block.html?url=example.com
-/block.html?group=social-media
-/block.html?category=adult
+example.com/?category=Adult%20Content&url=https://example.com
+example.com/?url=https://example.com
+example.com/?category=Adult%20Content&group=Guest&url=https://example.com
+example.com/
