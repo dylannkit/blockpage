@@ -1,6 +1,6 @@
 # Simple Block Page
 
-A lightweight, configurable **block page** that can be used to restrict or display blocked content based on URL parameters. Designed to be simple, fast, and easy to customize.
+A lightweight, configurable **block page** that can be redirected to on "blocked content" being accessed. Designed to be simple, fast, and easy to customize.
 
 ## ✨ Features
 
