@@ -5,7 +5,7 @@ A lightweight, configurable **block page** that can be redirected to on *blocked
 > [!NOTE]
 > This repo is purposefully **very** simple, this was originally a private project. Don't expect updates
 
-![Block Page Desktop](https://github.com/user-attachments/assets/57332636-04a3-4089-9094-953077bb7718)
+<img width="640" height="300" alt="Desktop Screenshot" src="https://github.com/user-attachments/assets/e2031d09-672b-4c3a-948b-be50086a7c10" />
 
 ## ✨ Features
 
